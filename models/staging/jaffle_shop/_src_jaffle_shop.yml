@@ -4,6 +4,5 @@ sources:
     schema: jaffle_shop
     tables:
       - name: customers
-          freshness:null
       - name: orders
         
