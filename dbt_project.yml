@@ -36,7 +36,7 @@ models:
   my_new_project:
     # Applies to all files under models/example/
     staging:
-      +materialized: view
+      +materialized: table
     marts:
       +materialized: table
 flags:
