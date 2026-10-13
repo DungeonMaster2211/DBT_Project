@@ -5,4 +5,8 @@ sources:
     tables:
       - name: customers
       - name: orders
-        
+  - name: circana_lab
+    database: circana_lab
+    schema: stg
+    tables:
+      - name: circana_sales_changes
